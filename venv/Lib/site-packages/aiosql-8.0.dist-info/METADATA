@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: aiosql
+Version: 8.0
+Summary: Simple SQL in Python
+Home-page: https://github.com/nackjicholson/aiosql
+Author: William Vaughn et al.
+Author-email: vaughnwilld@gmail.com
+License: BSD 2-Clause License
+Project-URL: Docs, https://nackjicholson.github.io/aiosql/
+Project-URL: Issues, https://github.com/nackjicholson/aiosql/issues
+Project-URL: Package, https://pypi.org/project/aiosql/
+Project-URL: Sources, https://github.com/zx80/cachetools-utils
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+License-File: LICENSE
+Requires-Dist: setuptools
+
+Simple SQL in Python, please see the `documentation <https://nackjicholson.github.io/aiosql/>`__
+
